@@ -1,2 +1,2 @@
-# lottery
- self made
+#lottery 
+Made just for fun , using Javascript.
